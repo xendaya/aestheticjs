@@ -53,6 +53,8 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [ma
    ```sh
    npm run serve
    ```
+ ## View the demo
+ [demo] (https://justklauz.vercel.app/)
 
 ## 🎨 Color Reference
 
