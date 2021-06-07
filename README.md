@@ -33,6 +33,13 @@ Yes, you can fork this repo. Please give me proper credit by linking back to [ma
    ```sh
    yarn
    ```
+   ```jsx
+   const swup = new Swup();
+   
+   const swup => {
+      return <h1> Welcome to Swup {props.name} </h1>
+   }
+   ```
 
 4. Start the development server
 
